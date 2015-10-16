@@ -1,7 +1,6 @@
 #IANActivityIndicatorButton
 
 ### 说明：
-- 请star Github 以保证获得最新的代码
 - https://github.com/ianisme/IANActivityIndicatorButton
 - 实现在UIButton上放置加载loading
 
